@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="1301" viewBox="0 0 1920 1301">
+  <defs>
+    <linearGradient id="linear-gradient" x1="1.239" x2="0.469" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="0.054" stop-color="#e2dfdf"/>
+      <stop offset="1" stop-color="#615a5a"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#d2cfcf"/>
+      <stop offset="1" stop-color="#231e1e"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="0.5" y1="1" x2="0.5" y2="0.015" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#676363"/>
+      <stop offset="1" stop-color="#161010"/>
+    </linearGradient>
+    <clipPath id="clip-Web_1920_1">
+      <rect width="1920" height="1301"/>
+    </clipPath>
+  </defs>
+  <g id="Web_1920_1" data-name="Web 1920 – 1" clip-path="url(#clip-Web_1920_1)">
+    <rect width="1920" height="1301" fill="url(#linear-gradient)"/>
+    <ellipse id="Ellipse_2" data-name="Ellipse 2" cx="347.5" cy="356" rx="347.5" ry="356" transform="translate(801 159)" fill="url(#linear-gradient-2)"/>
+    <circle id="Ellipse_1" data-name="Ellipse 1" cx="361.5" cy="361.5" r="361.5" transform="translate(316 131)" opacity="0.43" fill="url(#linear-gradient-3)"/>
+    <line id="Line_1" data-name="Line 1" x2="212" transform="translate(690.5 355.5)" fill="none" stroke="#d2cdcd" stroke-width="3"/>
+    <line id="Line_2" data-name="Line 2" x2="140.5" transform="translate(894.5 906)" fill="none" stroke="#d2cdcd" stroke-width="3"/>
+  </g>
+</svg>
